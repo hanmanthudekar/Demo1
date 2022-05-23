@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-10T12:04:59 IST" name="Default suite" finished-at="2022-05-10T12:05:36 IST" duration-ms="37298">
+    <groups>
+    </groups>
+    <test started-at="2022-05-10T12:04:59 IST" name="Default test" finished-at="2022-05-10T12:05:36 IST" duration-ms="37298">
+      <class name="com.qa.testLayer.TestClass">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.qa.testLayer.TestClass@8dbdac1]" started-at="2022-05-10T12:04:59 IST" name="launchBrowser" finished-at="2022-05-10T12:05:36 IST" duration-ms="37212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="a1()[pri:0, instance:com.qa.testLayer.TestClass@8dbdac1]" started-at="2022-05-10T12:05:36 IST" name="a1" finished-at="2022-05-10T12:05:36 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+      </class> <!-- com.qa.testLayer.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
